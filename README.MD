@@ -1,4 +1,4 @@
 # Chcete se podílet na projektu?
-Link pro [Atom](atom://teletype/portal/e34e8116-f14a-4047-9e02-e7d459e2bbb7)
+Link pro Atom: atom://teletype/portal/001527ca-dab7-4853-9710-3cdb1535bea8
 # Nevíte co dělat?
 Link na [Tabuli](https://github.com/eTURek-web/eTURek-web.github.io/projects/1)
